@@ -27,7 +27,7 @@ list_of_files = [
     "app.py",
     "main.py",
     "logs.py",
-    "exception.py"
+    "exception.py",
     "setup.py"   
 ]
 
